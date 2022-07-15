@@ -2,4 +2,4 @@
 
 Veri Yapıları ve Algoritmalar Projeleri
 
-[](www.patika.dev)
+[](https://www.patika.dev/tr)
